@@ -1,0 +1,1 @@
+select * from crowdfunding_db_schema.campaign
